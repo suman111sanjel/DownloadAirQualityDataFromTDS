@@ -6,6 +6,7 @@ clone this project using the following code
 ****
 
 ### This project helps to download air quality forecast data for THREDDS Data Server. The THREDDS Data server is hosted by ICIMOD. Use the link below to access the thredds data server.
+
 http://smog.icimod.org:8080/thredds/catalog/catalog.html
 
 
@@ -15,6 +16,7 @@ Open main.py
 There are three function `downloadGEOSData, downloadWRFCHEMNepal, downloadWRFCHEMHKH`
 
 ###downloadGEOSData function
+
 This function helps to download the GEOS forecast data.
 
 `
