@@ -10,13 +10,13 @@ clone this project using the following code
 http://smog.icimod.org:8080/thredds/catalog/catalog.html
 
 
-###How to download the forecast data
+### How to download the forecast data
 
 Open main.py
 
 There are three function `downloadGEOSData, downloadWRFCHEMNepal, downloadWRFCHEMHKH`
 
-###downloadGEOSData function
+### downloadGEOSData function
 
 This function helps to download the GEOS forecast data.
 
@@ -31,7 +31,7 @@ _StartDate:_(String type) format 'YYYY-MM-DD' Example: '2022-09-01'
 _EndDate:_(String type) format 'YYYY-MM-DD' Example: '2022-09-20'
 
 
-###downloadWRFCHEMNepal and downloadWRFCHEMHKH
+### downloadWRFCHEMNepal and downloadWRFCHEMHKH
 
 This function helps to download WRFChem model data for different domain(HKH, Nepal)
 
