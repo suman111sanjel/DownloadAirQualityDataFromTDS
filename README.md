@@ -46,4 +46,4 @@ _StartDate:_(String type) format 'YYYY-MM-DD' Example: '2022-09-01'
 _EndDate:_(String type) format 'YYYY-MM-DD' Example: '2022-09-20'
 
 
-Note: If you get any problem downloading the date. Please write to suman.sanjel@icimod.org
+Note: If you get any problem downloading the data. Please write to suman.sanjel@icimod.org
